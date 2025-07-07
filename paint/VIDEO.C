@@ -1,6 +1,6 @@
- #include <dos.h>;
- #include <string.h>;
- #include "video.h";
+ #include <dos.h>
+ #include <string.h>
+ #include "video.h"
 
  int isToggled = 0;
 
