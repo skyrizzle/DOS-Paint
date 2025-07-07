@@ -1,6 +1,6 @@
-#include <dos.h>;
-#include "video.h";
-#include "mouse.h";
+#include <dos.h>
+#include "video.h"
+#include "mouse.h"
 
 int mouseX = 0;
 int mouseY = 0;
