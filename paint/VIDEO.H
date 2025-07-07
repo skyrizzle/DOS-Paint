@@ -1,4 +1,4 @@
-#ifdef VIDEO_H
+#ifndef VIDEO_H
 #define VIDEO_H
 
 #define WIDTH 320
