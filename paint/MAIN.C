@@ -1,8 +1,8 @@
-#include <stdio.h>;
-#include <stdlib.h>;
-#include <ctype.h>;
-#include "video.h";
-#include "mouse.h";
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include "video.h"
+#include "mouse.h"
 
 int i, j;
 int saveColour = 0;
